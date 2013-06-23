@@ -3,3 +3,5 @@ target/
 publish.sbt
 .idea
 .idea_modules
+bin/
+*.class
